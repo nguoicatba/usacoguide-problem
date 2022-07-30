@@ -18,6 +18,7 @@ typedef map<int,int> mapii;
 void solve(){
 
 }
+// http://www.usaco.org/index.php?page=viewproblem2&cpid=863&fbclid=IwAR0J01RZAdn8KSzeqeL-sq5L6Ps7rQlabwjAuBhWFJdNgGFLhQJwQV2F36o
  ll a[10001][1010];
  ll dp[10001];
 int main ()
